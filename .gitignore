@@ -1,5 +1,6 @@
+data/
 scripts/
 Lib/
 include/
-data/
 pyvenv.cfg
+
